@@ -47,3 +47,7 @@ bld/
 *.VisualState.xml
 TestResult.xml
 
+#Nuget
+**/packages/*
+!**packages/repositories.config
+
